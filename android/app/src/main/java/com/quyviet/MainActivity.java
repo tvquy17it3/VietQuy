@@ -2,6 +2,10 @@ package com.quyviet;
 
 import com.facebook.react.ReactActivity;
 
+import com.imagepicker.ImagePickerPackage;
+
+import com.mocklocation.reactnative.RNMockLocationDetectorPackage;
+
 public class MainActivity extends ReactActivity {
 
   /**
